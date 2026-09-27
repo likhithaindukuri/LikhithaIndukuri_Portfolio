@@ -6,7 +6,7 @@ function About() {
           <p className="section-label">About</p>
 
           <h2 className="section-title">
-            Building software with a focus on
+            Building software with a focus on 
             <br />
             practical problem solving.
           </h2>
